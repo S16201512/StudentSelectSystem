@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/**
+将一个 元素等分的分成 12 分
+ */
+.cell-1{
+    width:8.333333333%;
+}
+.cell-2{
+    width:16.66666666%;
+}
+.cell-3{
+    width:25%;
+}
+.cell-4{
+    width:33.333333333%;
+}
+.cell-5{
+    width:41.66666666%;
+}
+.cell-6{
+    width:50%;
+}
+.cell-7{
+    width:58.333333333%;
+}
+.cell-8{
+    width:66.66666666%;
+}
+.cell-9{
+    width:75%;
+}
+.cell-10{
+    width:83.333333333%;
+}
+.cell-11{
+    width:91.66666666%;
+}
+.cell-12{
+    width:100%;
+}
+.cell-1 , .cell-2 , .cell-3 , .cell-4 , .cell-5 , .cell-6 , .cell-7 , .cell-8 , .cell-9 , .cell-10 , .cell-11 , .cell-12{
+    float: left;
+}
